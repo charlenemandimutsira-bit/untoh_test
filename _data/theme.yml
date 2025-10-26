@@ -95,8 +95,8 @@ bootswatch: cerulean
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#CCD4B5"
-link-color: "#0E1009"
+text-color: "#000080"
+link-color: "#000080"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 

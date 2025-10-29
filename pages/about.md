@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://printing.unt.edu:9192/custom/login-bg.jpg?1635432705930" width="25" centered=true%}
+{% include feature/jumbotron.html objectid="https://printing.unt.edu:9192/custom/login-bg.jpg?1635432705930"%}
 
 ## Exhibit Statement
 

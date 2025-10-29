@@ -1,5 +1,5 @@
 ---
-title: About
+title: Exhibit Statement and Themes
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom

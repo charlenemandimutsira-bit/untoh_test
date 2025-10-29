@@ -12,6 +12,11 @@ credits: true
 
 ## Exhibit Statement
 
+This digital collection features oral histories collected by Dr. Floyd Jenkins, a business professor, as a part of the Business Archives Project at North Texas State University, now called the University of North Texas. These oral history interviews document the everyday operations, labor practices, customer relations, and lives of small Texas business owners from the 1890s to the 1970s. These business owners’ firsthand accounts offer valuable insight into these businesses adapted to economic shifts and technological change. 
+The collection is a relevant primary source for studying regional history, labor practices, entrepreneurship, and technological innovation of small businesses. From the stories of bakery owners Anne and Don Davis to those of auto mechanic and entrepreneur Ned Estes, we can gain perspectives on what historians and archivists called the quotidian, or the everyday. The scholar Liz Stanley refers to the quotidian as “the everyday and seemingly mundane and commonplace - is at one and the same time both ordinary and extraordinary. and has both ‘small’ and ‘big’ story attributes.” These stories aren’t talking about famous figures in history, but rather normal, working people living through historical events. 
+This oral history collection fills an important gap in digital archives by centering the lived experiences of family-owned business owners in small towns in Texas rather than centering big business operations in metropolitan centers. While these stories are certainly overlooked, a glaring omission from these histories are the stories and contributions of workers, women, and people of color, which contributes to the narrative that these white, male business owners are the “representative” leaders of their communities. 
+
+Stanley, Liz (2010) On Small and Big Stories of the Quotidian: The Commonplace and the Extraordinary in Narrative Inquiry. In: Narrative, Memory and Ordinary Lives. University of Huddersfield, Huddersfield, pp. 1-24. ISBN 978-1-86218-090-1 
 
 ## Themes
 

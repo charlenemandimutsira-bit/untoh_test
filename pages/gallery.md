@@ -5,7 +5,7 @@ permalink: /gallery.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
+heading: A Blast From the Past - Learning About North Texas Business History Through Photos
 
-{% include feature/jumbotron.html objectid="https://printing.unt.edu:9192/custom/login-bg.jpg?1635432705930" %}
-
+{% include feature/image.html objectid="coll013" width="75" %}
 

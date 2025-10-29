@@ -1,6 +1,6 @@
 color_class,color
-primary,green
-secondary,red
+primary,#009933
+secondary,#0000ff
 success,#009933
 info,#4232a8
 warning,#90a832

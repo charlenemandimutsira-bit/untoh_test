@@ -1,7 +1,7 @@
 ---
 title: Exhibit Statement and Themes
 layout: Exhibit Statement and Themes
-permalink: /Exhibit Statement and Themes.html
+permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

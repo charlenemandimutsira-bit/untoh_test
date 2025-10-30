@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colorhexa.com%2F059033&psig=AOvVaw1zqkF721Af3CA8gpMw0EJh&ust=1761885308137000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCqnLyMy5ADFQAAAAAdAAAAABAE"%}
+{% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png"%}
 
 ## Exhibit Statement
 

@@ -5,7 +5,10 @@ permalink: /gallery.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-## Learning About North Texas Business History Through Photography
+## Learning About North Texas Business History with University of North Texas Special collections
+
+History of the College of Business at UNT
+
 
 {% include feature/image.html objectid="coll013" width="75" %}
 Caption: 

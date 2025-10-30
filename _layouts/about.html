@@ -2,11 +2,10 @@
 # default "About" page layout
 layout: default
 ---
+<div>
 <div class="container my-4 about-contents">
-{{ 
-  content 
-   
-}}
+{{content}}
 </div>
-
+<div style="overflow:hidden;margin-bottom:36px;padding-bottom:50%;position:relative;height:0;"><iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://digital.library.unt.edu/ark:/67531/metadc1755670/m1/embed/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+</div>
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}

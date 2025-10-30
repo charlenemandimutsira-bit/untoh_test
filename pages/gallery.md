@@ -9,6 +9,7 @@ credits: true
 
 History of the College of Business at UNT
 
+{% include feature/video.html objectid="https://digital.library.unt.edu/ark:/67531/metadc1755670/m1/" width="50"%}
 
 {% include feature/image.html objectid="coll013" width="75" %}
 Caption: 

@@ -7,7 +7,7 @@ credits: true
 ---
 ## North Texas Business History Gallery
 
-{% include feature/image.html objectid="coll001" width="50" %}
+{% include feature/image.html objectid="coll003" width="50" %}
 
 {% include feature/image.html objectid="coll004" width="50" %}
 

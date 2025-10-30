@@ -9,7 +9,7 @@ credits: true
 
 {% include feature/image.html objectid="coll003" width="50" %}
 
-{% include feature/image.html objectid="coll004" width="50" %}
+{% include feature/image.html objectid="coll006" width="50" %}
 
 {% include feature/image.html objectid="coll012" width="50" %}
 

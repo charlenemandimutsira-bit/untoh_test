@@ -29,6 +29,8 @@ credits: true
 
 {% include feature/image.html objectid="coll033" width="50" %}
 
+If you'd like to know more about the history behind the College of Business at the University of North Texas, please watch the following video provided by UNT: 
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: about
+layout: default
 permalink: /gallery.html
 # include CollectionBuilder info at bottom
 credits: true

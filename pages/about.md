@@ -1,5 +1,5 @@
 ---
-title: Exhibit Statement and Themes
+title: Exhibit Statement, Themes, and Curatorial Statement
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -20,7 +20,7 @@ credits: true
 
 Stanley, Liz (2010) On Small and Big Stories of the Quotidian: The Commonplace and the Extraordinary in Narrative Inquiry. In: Narrative, Memory and Ordinary Lives. University of Huddersfield, Huddersfield, pp. 1-24. ISBN 978-1-86218-090-1 
 
-## Themes
+## Curatorial Statement and Themes
 
   Our curatorial process began with a discussion about all of our collection’s oral histories to locate common themes and Library of Congress subject headings. For our themes, we identified the Great Depression and changes in technology as common threads. These topics came up repeatedly, and are relevant to the time period discussed in all of the oral histories. Though the interviews take place in the late 1970s and early 1980s, the majority of the content focuses on the first half of the 20th Century. We also observed that many of oral histories featured Floyd Jenkins as the interviewer, so we opted to include only interviews he conducted to provide an additional throughline to the oral histories. While these interviews mainly reflect the positionality of white men in the early twentieth century, they provide understanding on the lives of community leaders in the small towns throughout North and Central Texas.
 

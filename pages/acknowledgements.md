@@ -10,10 +10,20 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
 
-## We'd like to give a Huge **Texas** Thank You To: 
+## Acknowledgements
 
-- The University of North Texas Special Collections Team
-- The University of North Texas Oral History Program
-- The Portal to Texas History and The Business Archives Project
+## *We'd like to give a Huge* :star: Texas :star: *Thank You To*: 
+
+:sparkle: The University of North Texas Special Collections Team
+:sparkle: The University of North Texas Oral History Program
+:sparkle: The Portal to Texas History and The Business Archives Project
+:sparkle: Our Digital Libraries professor, Dr. Palacios
+
+For allowing us to process, arrange, and exhibit the digital materials from UNT's Business Archives Project for our Digital Libraries Final Project. Thank you for investing in our growth as budding librarians, archivists, and information professionals. We all appreciate it. 
+
+Sincerely, 
+
+Meggie Do, Emily Acuna, Tessa Mitterhoff, and Charlene Mandimutsira
+
   
   

@@ -12,12 +12,12 @@ credits: true
 
 ## Acknowledgements
 
-We'd like to give a **Huge** Texas Thank You To: 
+We'd like to give a **Huge** *Texas* Thank You To: 
 
-- :sparkle: The University of North Texas Special Collections Team
-- :sparkle: The University of North Texas Oral History Program
-- :sparkle: The Portal to Texas History and The Business Archives Project
-- :sparkle: Our Digital Libraries professor, Dr. Palacios
+* *The University of North Texas Special Collections Team*
+* *The University of North Texas Oral History Program*
+* *The Portal to Texas History and The Business Archives Project*
+* *Our Digital Libraries professor, Dr. Palacios*
 
 For allowing us to process, arrange, and exhibit the digital materials from UNT's Business Archives Project for our Digital Libraries Final Project. Thank you for investing in our growth as budding librarians, archivists, and information professionals. We all appreciate it. 
 

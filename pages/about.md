@@ -1,5 +1,5 @@
 ---
-title: Exhibit Statement, Themes, and Curatorial Statement
+title: Exhibit Statement, Curatorial Statement, and Themes
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom

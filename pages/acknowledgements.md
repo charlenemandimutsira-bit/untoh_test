@@ -14,7 +14,7 @@ credits: true
 
 We'd like to give a **Huge** *Texas* Thank You To: 
 
-* *The University of North Texas Special Collections Team*
+* 📗 *The University of North Texas Special Collections Team*
 * *The University of North Texas Oral History Program*
 * *The Portal to Texas History and The Business Archives Project*
 * *Our Digital Libraries professor, Dr. Palacios*

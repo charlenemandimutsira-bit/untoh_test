@@ -45,11 +45,18 @@ metadata: cbmetadataupdated16
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
+# _config.yml
+plugins:
+  - jekyll-emoji
+gems:
+  - jekyll-emoji
+
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
 # noindex: true 
+
 
 ##########
 # BUILD SETTINGS 

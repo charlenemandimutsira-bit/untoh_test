@@ -6,8 +6,9 @@ Locations,/locations.html,
 Map,/map.html,
 Interview Timeline,/timeline.html,
 Data,/data.html,
-Exhibit Statement,/exhibitstatement.html,
-Curatorial Statement,/curatorial.html,
-Themes,/themes.html,
-Acknowledgements,/acknowledgements.html,
+About,,
+Exhibit Statement,/exhibitstatement.html,About
+Curatorial Statement,/curatorial.html,About
+Themes,/themes.html,About
+Acknowledgements,/acknowledgements.html,About
 

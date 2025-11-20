@@ -4,6 +4,8 @@ layout: about
 permalink: /curatorial.html
 ---
 
+{% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
+
 ## Curatorial Statement
 
   Our curatorial process began with a discussion of all our collection’s oral histories to identify common themes and Library of Congress subject headings. For our themes, we identified the Great Depression and changes in technology. We also observed that many of the oral histories featured Floyd Jenkins as the interviewer, so we opted to include only the interviews he conducted to provide an additional throughline. While these interviews mainly reflect the positionality of white men in the early twentieth century, they provide an understanding of the lives of community leaders in the small towns throughout North and Central Texas.

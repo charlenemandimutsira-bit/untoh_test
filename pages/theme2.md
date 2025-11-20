@@ -1,8 +1,10 @@
 ---
-title: Theme 2 - 
+title: Theme 2 - Changes in Technology
 layout: about
 permalink: /theme2.html
 ---
+
+{% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
 
 ## Changes in Technology
 

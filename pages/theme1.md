@@ -16,4 +16,5 @@ Interviews: Ned Estes, Anne Davis/Don Davis, Margaret Clayton, W.L Dinn (intervi
 
 {% include feature/image.html objectid="coll026" width="75" %}
 {% include feature/image.html objectid="coll023" width="75" %}
+{% include feature/image.html objectid="coll003" width="75" %}
 

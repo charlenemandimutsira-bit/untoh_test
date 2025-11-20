@@ -12,5 +12,8 @@ permalink: /theme1.html
 
   In 1929, the world experienced a global economic collapse known as the Great Depression, which began in the United States. Throughout the 1930s, the economic hardships of the Great Depression affected everyone from hourly workers, to farmers, to the business owners featured in this collection. While some interviewees saw the loss of farms and possessions in their communities, others did not feel the effects of the Depression as much because they were children. Many businesses simply tried to stay afloat during the 1930s as real estate values fell and families’ spending money disappeared. Business owners kept their stores open through the sale of goods on credit and bartered with buyers for what they could afford, with some not collecting debt until 1942. These oral histories offer a first-person perspective on life in small Texas towns during the Great Depression. 
 
-Interviews: Ned Estes, Anne Davis/Don Davis, Margaret Clayton, W.L Dinn, Ernest Ellis, Mary Kay
+Interviews: Ned Estes, Anne Davis/Don Davis, Margaret Clayton, W.L Dinn (interview not included in this digital collection), Ernest Ellis, Mary Kay (Interview not included in this digital collection)
+
+{% include feature/image.html objectid="coll026" width="75" %}
+{% include feature/image.html objectid="coll023" width="75" %}
 

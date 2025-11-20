@@ -24,10 +24,10 @@ Now, creating a collection like this–one that portrays people, not scientific 
 
 # References 
 
-* Stanley, Liz (2010) On Small and Big Stories of the Quotidian: The Commonplace and the Extraordinary in Narrative Inquiry. In: Narrative, Memory and Ordinary Lives. University of Huddersfield, Huddersfield, pp. 1-24. ISBN 978-1-86218-090-1
 * About - overview. (n.d.). The Portal to Texas History. https://texashistory.unt.edu/about/portal/
 * Boté, J.-J., & Termens, M. (2019). Reusing Data Technical and Ethical Challenges. DESIDOC Journal of Library & Information Technology, 39(06), 329–337.  https://doi.org/10.14429/djlit.39.06.14807
 * Business Source Ultimate. (2025). EBSCO Information Services, Inc. https://about.ebsco.com/products/research-databases/business-source-ultimate
 * Econ Lit. (2025). Www.aeaweb.org. https://www.aeaweb.org/econlit/
-* Nature Education. (2014). Scientific Papers. Nature.com. https://www.nature.com/scitable/topicpage/scientific-papers-13815490/  
+* Nature Education. (2014). Scientific Papers. Nature.com. https://www.nature.com/scitable/topicpage/scientific-papers-13815490/
+* Stanley, Liz (2010) On Small and Big Stories of the Quotidian: The Commonplace and the Extraordinary in Narrative Inquiry. In: Narrative, Memory and Ordinary Lives. University of Huddersfield, Huddersfield, pp. 1-24. ISBN 978-1-86218-090-1
 

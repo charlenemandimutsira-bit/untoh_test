@@ -1,12 +1,12 @@
 ---
-title: Themes of the Collection
+title: Theme 1 - The Great Depression
 layout: about
-permalink: /themes.html
+permalink: /theme1.html
 ---
 
 {% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
 
-## Themes
+## The Great Depression
 
 <b>The Great Depression</b>
 

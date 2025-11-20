@@ -4,6 +4,8 @@ layout: about
 permalink: /themes.html
 ---
 
+{% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
+
 ## Themes
 
 <b>The Great Depression</b>

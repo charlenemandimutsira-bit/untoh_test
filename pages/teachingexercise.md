@@ -13,9 +13,9 @@ Our team is so excited to help educators with their teaching needs. This page pr
 # Theme Interpretation Exercise
 With this exercise: 
 
-* 📗 Students will explore and engage with the website to engage w/ the themes
-* 📗 Students will learn about how exactly the Great Depression & the change of technology affected small Texas businesses
-* 📗 Students will examine and analyze parts of the interview transcripts
+* 📗 Students will explore and engage with the website to engage with the themes
+* 📗 Students will learn exactly how the Great Depression & the change of technology affected small Texas businesses
+* 📗 Students will examine and analyze parts of the interview transcripts that are related to the major themes of this collection (i.e. The Great Depression and The Change of Technology)
 
 For any additional questions or issues regarding this exercise, please reach out to Meggie Do.
 

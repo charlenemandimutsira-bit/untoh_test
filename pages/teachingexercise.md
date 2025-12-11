@@ -15,9 +15,12 @@ With this exercise:
 
 * 📗 Students will understand how small Texas businesses in the 1900s operated
 * 📗 Students will understand how to use Voyant Tools and visualize the overarching themes within a text
+    {% include feature/button.html text="Link to the Voyant Tools Website Can Be Found Here" link="https://voyant-tools.org/" %}
 * 📗 Students will focus on themes of family labor, community connections, financial pressures, & business entrepreneurship and growth
+  
+  If you have any questions about this activity, please feel free to reach out to Meggie Do and/or Charlene Mandimutsira.
 
-{% include feature/button.html text="Link to the Voyant Tools Website Can Be Found Here" link="https://voyant-tools.org/" %}
+
 
 
 

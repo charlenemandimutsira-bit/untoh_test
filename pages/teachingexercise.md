@@ -8,7 +8,7 @@ permalink: /teachingexercise.html
 
 Our team is so excited to help educators with their teaching needs. This page provides teaching activities that can be done with undergraduate students enrolled in business elective classes.
 
-{% include feature/button.html text="Detailed Breakdown for the Teaching Activities Can Be Found Here" link="https://docs.google.com/document/d/1cOgF5PuigZe8ZW_VH1Scv2V88mDqnkTyOR2TOs00TjE/edit?usp=sharing" %}
+{% include feature/button.html text="Detailed Breakdown for the Teaching Activities Can Be Found Here" link="https://docs.google.com/document/d/11wBdMBIPQajkVY6SMWGM3Yzjid2aaIeC/edit?usp=sharing&ouid=116514130881529287813&rtpof=true&sd=true" %}
 
 # Distant Reading Vs. Close Reading Exercise
 With this exercise: 

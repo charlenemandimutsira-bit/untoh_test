@@ -4,6 +4,8 @@ layout: about
 permalink: /teachingexercise.html
 ---
 
+{% include feature/jumbotron.html objectid="https://www.colorhexa.com/059033.png" %}
+
 ## Education - Teaching with the A Snapshot to Texas Business History Collection
 
 Our team is so excited to help educators with their teaching needs. This page provides teaching activities that can be done with undergraduate honors students enrolled in business elective classes.
